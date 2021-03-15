@@ -1,0 +1,62 @@
+\begin{thebibliography}{}
+
+\bibitem[Androulakis et~al., 2016]{Androulakis2016}
+Androulakis, E., Drosou, K., Koukouvinos, C., and Zhou, Y.~D. (2016).
+\newblock {Measures of uniformity in experimental designs: A selective
+  overview}.
+\newblock {\em Communications in Statistics - Theory and Methods},
+  45(13):3782--3806.
+
+\bibitem[Benford, 1938]{Benford1938}
+Benford, F. (1938).
+\newblock {The Law of Anomalous Numbers}.
+\newblock In {\em Proceedings of the American Philosophical Society},
+  volume~78, pages 551--572.
+
+\bibitem[Fang et~al., 2006]{Fang2006}
+Fang, K.-T., Li, R.~Z., and Sudjianto, A. (2006).
+\newblock {\em {Design and modeling for computer experiments}}.
+\newblock Chapman {\&} Hall/CRC.
+
+\bibitem[Hill, 1995]{Hill1995a}
+Hill, T.~P. (1995).
+\newblock {The Significant Digit Phenomenon}.
+\newblock {\em The American Mathematical Monthly}, 102(4):322--327.
+
+\bibitem[Joenssen, 2013]{Joenssen2013}
+Joenssen, D.~W. (2013).
+\newblock {Two Digit Testing for Benford's Law}.
+\newblock In {\em Proceedings of the 59th World Statistics Congress of the
+  International Statistical}, pages 3881--3886.
+
+\bibitem[Kucherenko et~al., 2015]{Kucherenko2015}
+Kucherenko, S., Albrecht, D., and Saltelli, A. (2015).
+\newblock {Exploring multi-dimensional spaces: a Comparison of Latin Hypercube
+  and Quasi Monte Carlo Sampling Techniques}.
+\newblock {\em The 8th IMACS Seminar on Monte Carlo Methods}, pages 1--32.
+
+\bibitem[Lesperance et~al., 2016]{Lesperance2016}
+Lesperance, M., Reed, W.~J., Stephens, M.~A., Tsao, C., and Wilton, B. (2016).
+\newblock {Assessing conformance with Benford's law: Goodness-of-fit tests and
+  simultaneous confidence intervals}.
+\newblock {\em PLoS ONE}, 11(3):1--20.
+
+\bibitem[Newcomb, 1881]{Newcomb1881}
+Newcomb, S. (1881).
+\newblock {Note on the Frequency of Use of the Different Digits in Natural
+  Numbers}.
+\newblock {\em American Journal ofMathematics}, 4(1):39--40.
+
+\bibitem[Sacks et~al., 1989]{Sacks1989}
+Sacks, J., Welch, W.~J., Mitchell, T.~J., and Wynn, H.~P. (1989).
+\newblock {Design and Analysis of Computer Experiments}.
+\newblock {\em Statistical Science}, 4(4):409--423.
+
+\bibitem[Sobol', 1967]{Sobol1967}
+Sobol', I.~M. (1967).
+\newblock {On the distribution of points in a cube and the approximate
+  evaluation of integrals}.
+\newblock {\em USSR Computational Mathematics and Mathematical Physics},
+  7(4):86--112.
+
+\end{thebibliography}

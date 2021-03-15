@@ -1,6 +1,9 @@
 # OSX
 .DS_Store
 
+# Paper latex build
+/paper/.texpadtmp/
+
 # PyCharm
 .idea/
 
