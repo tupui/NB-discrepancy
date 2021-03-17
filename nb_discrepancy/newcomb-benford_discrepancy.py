@@ -2,6 +2,7 @@ import os
 from itertools import combinations
 
 import numpy as np
+from numpy.random import default_rng
 from scipy.stats import qmc
 from sklearn.metrics import mean_squared_error
 
@@ -69,6 +70,7 @@ POWER_MAX = 12  # 12
 ns_gen = 2 ** np.arange(MIN_POWER, POWER_MAX + 1)
 
 qmc_engine = qmc.Sobol(d=n_dims, scramble=True)
+rng = default_rng()
 
 err_mc = []
 err_sobol = []
@@ -76,7 +78,7 @@ for n_samples in ns_gen:
     err_mc_ = 0
     err_sobol_ = 0
     for _ in range(n_conv):
-        sample = np.random.sample((n_samples, n_dims))
+        sample = rng.random((n_samples, n_dims))
         err_mc_ += disc_benford_2d(sample)
 
         sample = qmc_engine.random(n_samples)
